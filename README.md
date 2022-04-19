@@ -29,6 +29,13 @@ and more..
 * Responsive
 * Built with Vue&Tailwind
 
+## signUM Issue tracker
+
+<a target="_blank" href='https://signum045.netlify.app'>Click here!</a>
+
+* Responsive
+* Built with React, Firebase, Tailwind and RTK
+
 ## Find me on:
 
 - <a target="_blank" href='https://www.linkedin.com/in/%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-162a621a7/'>LinkedIn</a>
