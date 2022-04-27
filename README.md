@@ -16,7 +16,7 @@ I am very passionate in all thing tech, self-motivated and a good learner. My as
 - <img width='30px' heigth='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' alt='TailWindCSS'>
 - <img width='30px' heigth='30px' src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='Git'>
 
-## Limited experience in:
+### Limited experience in:
 - <img width='30px' heigth='30px' src='https://vuejs.org/images/logo.png' alt='VueJS'>
 
 ## Learning:
@@ -31,7 +31,7 @@ and more..
 * Build with React and Tailwind
 * Responsive
 
-# V1
+### V1
 
 <a target="_blank" href='https://marinovme2.netlify.app'>Click here!</a> 
 
