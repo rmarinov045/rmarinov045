@@ -31,7 +31,7 @@ and more..
 * Build with React and Tailwind
 * Responsive
 
-### V1
+## V1
 
 <a target="_blank" href='https://marinovme2.netlify.app'>Click here!</a> 
 
@@ -44,6 +44,12 @@ and more..
 
 * Responsive
 * Built with React, Firebase, Tailwind and RTK
+
+## rChat chat app
+
+* Responsive
+* Real-time interaction
+* Built with React and Firebase
 
 ## Find me on:
 
