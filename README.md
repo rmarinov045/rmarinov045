@@ -55,5 +55,5 @@ and more..
 
 ## Find me on:
 
-- <a target="_blank" href='https://www.linkedin.com/in/%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-162a621a7/'>LinkedIn</a>
+- <a target="_blank" href='www.linkedin.com/in/radostin-marinov-162a621a7'>LinkedIn</a>
 - <a target="_blank" href='https://www.facebook.com/profile.php?id=100002531510370'>Facebook</a>
