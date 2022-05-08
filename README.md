@@ -47,6 +47,8 @@ and more..
 
 ## rChat chat app
 
+<a target="_blank" href='https://r-chat-01.netlify.app'>Click here!</a>
+
 * Responsive
 * Real-time interaction
 * Built with React and Firebase
