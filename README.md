@@ -24,6 +24,19 @@ I am very passionate in all thing tech, self-motivated and a good learner. My as
 - <img width='30px' heigth='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png' alt='NodeJS'>
 and more..
 
+# Certification:
+
+## Software University (SoftUni):
+
+* Javascript basics - <a href="https://softuni.bg/certificates/certificates/converttoimage/112215?code=03839d1b" alt="basics" target="_blank">click here</a>
+* Javascript fundamentals - <a href="https://softuni.bg/certificates/certificates/converttoimage/119751?code=aa0b8c5a" alt="basics" target="_blank">click here</a>
+* Javascript advanced - <a href="https://softuni.bg/certificates/certificates/converttoimage/126440?code=f6276917" alt="basics" target="_blank">click here</a>
+* Javascript fundamentals - <a href="https://softuni.bg/certificates/certificates/converttoimage/130522?code=bf8fddb1" alt="basics" target="_blank">click here</a>
+* Javascript backend (current)
+
+
+# Projects
+
 ## Portfolio website (V2)
 
 <a target="_blank" href='https://marinovme.netlify.app'>Click here!</a> 
