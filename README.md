@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Radostin Marinov, Bulgarian and I am a Front-End developer. 
+My name is Radostin Marinov, Bulgarian and I am a Full-Stack engineer. 
 
 I am very passionate in all thing tech, self-motivated and a good learner. My aspiration is to gain more knowledge and continue developing in front-end/full stack direction.
 
